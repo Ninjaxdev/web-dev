@@ -4,6 +4,11 @@ A clone of the UsabilityHub landing page built using HTML and CSS. This project 
 
 > ⚠️ Currently, the project is **not responsive**. Responsive improvements are planned for future updates.
 
+
+## 🔗 Live Demo
+
+👉 [Click here to view the live site](https://web-cv5ocz64q-rohit-chands-projects-bf1d09ce.vercel.app/)
+
 ## 🚀 Features
 
 - Clean and pixel-perfect UI
@@ -18,7 +23,7 @@ A clone of the UsabilityHub landing page built using HTML and CSS. This project 
 - (Optional: Add JavaScript if you plan to use it later)
 - font awesome for icons
 - Google Fonts for fonts
----
+- Deployed on [Vercel](https://vercel.com/)
 
 ## 🎯 Upcoming Improvements
 
