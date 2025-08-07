@@ -31,5 +31,5 @@ A clone of the UsabilityHub landing page built using HTML and CSS. This project 
 This project is for educational and personal learning purposes only. All rights to original UsabilityHub content and assets belong to their respective owners.
 
 
-## 📁 Project Structure
+
 
