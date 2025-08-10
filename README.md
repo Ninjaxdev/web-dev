@@ -4,7 +4,7 @@ A clone of the UsabilityHub landing page built using HTML and CSS. This project 
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://web-cv5ocz64q-rohit-chands-projects-bf1d09ce.vercel.app/)
+👉 [Click here to view the live site](https://web-fua6a9fy1-rohit-chands-projects-bf1d09ce.vercel.app)
 
 ## 🚀 Features
 
@@ -12,6 +12,7 @@ A clone of the UsabilityHub landing page built using HTML and CSS. This project 
 - HTML5 & CSS3 structure
 - Fully structured semantic layout
 - Custom fonts and design assets
+- Responsive
 
 ## 🛠️ Technologies Used
 
